@@ -1,6 +1,7 @@
 # Jarvis
 The virtual assistant is a voice-controlled virtual assistant, "Jarvis," that uses the speech_recognition package for voice input and the win32com.client module for text-to-speech output. It can open websites, display the time, and execute system actions via os and subprocess modules.
-Modules:-
+
+Modules Used and Library Requirements:-
 
 1. `speech_recognition`:
    - This module provides functionalities to recognize speech from various sources, including microphones and audio files.
